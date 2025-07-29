@@ -1,5 +1,8 @@
 # Catálogo de Obras
 
+## O que faz?
+O usuário digita o nome de uma obra, o programa se conecta à OMDb API para buscar informações em tempo real sobre filmes ou séries, como ano de lançamento, sinopse, atores e nota no IMDb, e exibe tudo de forma organizada para o usuário.
+
 ## Linguagem de Programação:
 C#: Linguagem principal utilizada para toda a lógica da aplicação.
 
