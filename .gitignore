@@ -1,0 +1,12 @@
+# Arquivos de compilação
+[Bb]in/
+[Oo]bj/
+
+# Arquivos de configuração do Visual Studio
+.vs/
+
+# Outros arquivos gerados
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
