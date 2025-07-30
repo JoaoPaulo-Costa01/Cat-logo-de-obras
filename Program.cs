@@ -33,6 +33,7 @@ namespace CatalogoDeFilmes {
                 Console.WriteLine($"Gênero: {filmeConvertido.Genre}");
                 Console.WriteLine($"Escritor(a): {filmeConvertido.Writer}");
                 Console.WriteLine($"Atores: {filmeConvertido.Actors}");
+                Console.WriteLine($"Linguagem: {filmeConvertido.Language}");
                 Console.WriteLine($"Avaliação do IMDB: {filmeConvertido.imdbRating}");
                 Console.WriteLine($"Tipo: {filmeConvertido.Type}");
 
