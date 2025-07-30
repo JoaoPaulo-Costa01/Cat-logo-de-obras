@@ -6,7 +6,7 @@ O usuário digita o nome de uma obra, o programa se conecta à OMDb API para bus
 ## Linguagem de Programação:
 C#: Linguagem principal utilizada para toda a lógica da aplicação.
 
-## Plataforma e Ferramentas:
+## 💻 Plataforma e Ferramentas:
 .NET: Plataforma de desenvolvimento sobre a qual a aplicação foi construída.
 
 Visual Studio: IDE (Ambiente de Desenvolvimento Integrado) utilizada para escrever, compilar e depurar o código.
